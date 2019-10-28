@@ -1,2 +1,2 @@
-# blog
+# Just a Blog
 Me Blog
